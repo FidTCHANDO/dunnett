@@ -1,5 +1,5 @@
 # POST HOC COMPARISON PROCEDURES PERFORMANCE
-## Objectif
+## Objective
 Simulation study to analyse the performance of 14 PCPs under various violation of assumptions.
 
 ## Contents
