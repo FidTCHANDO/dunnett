@@ -1,7 +1,12 @@
 # POST HOC COMPARISON PROCEDURES PERFORMANCE
 ## Objective
-Simulation study to analyse the performance of 14 PCPs under various violation of assumptions.
+Simulation study to analyse the performance of the **Dunnett** procedure under various violation of assumptions.
 
 ## Contents
-1. simulation and data analysis R code file (*simulation.R*)
-2. regwq procedure code developed (*devPosthoc.R*)
+1. simulation and analysis R code file (*dunnett_perf_sim.R*)
+
+![code image](image.png)
+
+2. practical session for dunnett procedure in R (*additionnal_info.pdf*)
+
+![code image](image2.png)
